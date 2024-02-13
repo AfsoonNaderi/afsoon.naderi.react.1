@@ -1,0 +1,10 @@
+const MyFirstComponent =()=>{
+    return (
+        <div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    );
+};
